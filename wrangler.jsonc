@@ -18,7 +18,8 @@
 		"bindings": [
 			{
 				"class_name": "MyMCP",
-				"name": "MCP_OBJECT"
+				"name": "MCP_OBJECT",
+				"script_name": "mcp-object-worker"
 			}
 		]
 	},
